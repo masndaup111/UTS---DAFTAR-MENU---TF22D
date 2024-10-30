@@ -1,0 +1,39 @@
+<!DOCTYPE html
+<html>
+<head>
+    <title>MENU GEPREK THOLE</title>
+</head>
+<body>
+<table border="1"bgcolor = "white">
+    <tr bgcolor = "yellow">
+     <th rowspan="2">
+     DAFTAR MENU</th>
+     <th colspan="3">
+     ALAMAT</th>
+    </tr>
+    <tr bgcolor = "greem">
+        <th>KERTIJAYAN</th>
+        <th>PRINGLANGU</th>
+    </tr>
+    <tr>
+        <td>AYAM GEPREK PRASMANAN</td>
+        <td>TERSEDIA</td>
+        <td>TERSEDIA</td>
+    </tr>
+    <tr>
+        <td>AYAM GEPREK OBONG</td>
+        <td>TERSEDIA</td>
+        <td>HABIS</td>
+    </tr>
+    <tr>
+        <td>MIE GEPREK NAMPOL</td>
+        <td>TERSEDIA</td>
+        <td>TERSEDIA</td>
+    </tr>
+    <tr>
+        <td>SOTO THOLE</td>
+        <td>HABIS</td>
+        <td>TERSEDIS</td>
+</tab
+</body>
+</html>
